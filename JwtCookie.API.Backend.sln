@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtCookie.API.Backend", "JwtCookie.API.Backend.csproj", "{65E652F4-4837-4C0C-BA9B-BC83F4C5023F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E652F4-4837-4C0C-BA9B-BC83F4C5023F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E652F4-4837-4C0C-BA9B-BC83F4C5023F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E652F4-4837-4C0C-BA9B-BC83F4C5023F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E652F4-4837-4C0C-BA9B-BC83F4C5023F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA0A653-016F-4AC1-BF63-03F04E7B6EA5}
+	EndGlobalSection
+EndGlobal
